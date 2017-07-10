@@ -5,7 +5,7 @@ This is a command line python program that takes a valid directory like `/home/u
 * Python 2.7.6
 * If you just change the `print` statement of this code
 * then you can run this code in 
-* Python 3
+* Python 3 slso 
 
 # Usages
 To use this command line python program you just open the terminal `Ctrl + Alt + T` and you can use the following commands
@@ -21,15 +21,15 @@ To use this command line python program you just open the terminal `Ctrl + Alt +
 ```
 
 # Demo - 1
-
-### Before run this code my `Downloads` directory looks like,
+Before run this code my `Downloads` directory looks like,
 ![Before](https://github.com/menon92/ArrangeFiles/blob/master/before.png)
 
-### After run this code `Downloads` directory is,
+After run this code `Downloads` directory is,
 ![After](https://github.com/menon92/ArrangeFiles/blob/master/after.png)
 
 # Demo - 2
 You can also see this youtube demo 
+
 [![Alt text](https://img.youtube.com/vi/tvBPbQhaWbo/0.jpg)](https://youtu.be/tvBPbQhaWbo)
 
 ### Thanks
