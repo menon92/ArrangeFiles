@@ -32,4 +32,7 @@ You can also see this youtube demo
 
 [![Alt text](https://img.youtube.com/vi/tvBPbQhaWbo/0.jpg)](https://youtu.be/tvBPbQhaWbo)
 
+# Issue Tracking
+If you find any bug, please open a new issue with details at https://github.com/menon92/ArrangeFiles/issues
+
 ### Thanks
