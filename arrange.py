@@ -11,7 +11,7 @@ __author__ = 'Md. Mehadi Hasan Menon'
 # edit this config file if you need to add new type of flle.
 CONFIG_DIRECTORIES = {
     "html"     : [".html5", ".html", ".htm", ".xhtml", ".css"],
-    "images"   : [".jpeg", ".jpg", ".tiff", ".gif", ".bmp", ".png", ".bpg", "svg",".heif", ".psd"],
+    "images"   : [".jpeg", ".jpg", ".tiff", ".gif", ".bmp", ".png", ".bpg", ".svg",".heif", ".psd"],
     "videos"   : [".avi", ".flv", ".wmv", ".mov", ".mp4", ".webm", ".vob", ".mng", ".qt", ".mpg", 
                   ".mpeg", ".3gp", ".mkv"],
     "documents": [".oxps", ".epub", ".pages", ".docx", ".doc", ".fdf", ".ods",
